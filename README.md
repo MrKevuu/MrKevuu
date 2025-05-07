@@ -1,4 +1,4 @@
-### 👋 Yo, jestem kevu 
+### 👋 Yo
 
 Jestem właścicielem serwisów:
 
