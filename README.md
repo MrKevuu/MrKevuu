@@ -2,7 +2,7 @@
 
 Jestem właścicielem serwisów:
 
-- [Vortex](https://kevu.pl/vortex)
+- [Vortex](https://kevu.pl/)
 
 Jeżeli szukasz developera to potrafię:
 - 🌐 Tworzyć strony internetowe (HTML, CSS, JavaScript)
