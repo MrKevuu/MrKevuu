@@ -6,7 +6,7 @@ Jestem właścicielem serwisów:
 
 Jestem developerem serwisów:
 
--[Radio Cezib](https://radio.cezib.pl)
+- [Radio Cezib](https://radio.cezib.pl)
 
 Jeżeli szukasz developera to potrafię:
 - 🌐 Tworzyć strony internetowe (HTML, CSS, JavaScript)
